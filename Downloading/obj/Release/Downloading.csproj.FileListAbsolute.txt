@@ -1,0 +1,9 @@
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\bin\Release\Downloading.exe.config
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\bin\Release\Downloading.exe
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\bin\Release\Downloading.pdb
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.Form1.resources
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.Properties.Resources.resources
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.csproj.GenerateResource.cache
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.csproj.CoreCompileInputs.cache
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.exe
+C:\Users\Sanyad11\source\repos\Downloading\Downloading\obj\Release\Downloading.pdb
